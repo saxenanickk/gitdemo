@@ -1,3 +1,3 @@
 function display () {
-    console.log("Display")
+    console.log("Display");
 }
